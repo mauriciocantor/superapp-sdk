@@ -1,5 +1,5 @@
 {
-  "name": "@superapp/sdk",
+  "name": "superapp-jsapi-sdk",
   "version": "1.0.0",
   "description": "SDK oficial para desarrollar mini-apps en la plataforma SuperApp",
   "main": "dist/index.js",
